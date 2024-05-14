@@ -169,3 +169,5 @@ Add **Open Source Society University** to your [Linkedin](https://www.linkedin.c
 
 * **Curriculum Maintainer**: [Waciuma Wanjohi](https://github.com/waciumawanjohi)
 * **Contributors**: [contributors](https://github.com/open-source-society/data-science/graphs/contributors)
+
+¡Mi primera edición!
